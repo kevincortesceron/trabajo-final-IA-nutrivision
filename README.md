@@ -41,7 +41,7 @@ Cámara/foto ──► OpenCV (CLAHE + detección del plato) ──► CNN Effic
 3. **Instalar localmente**
    ```bash
    python -m venv .venv && .venv\Scripts\activate      # Windows  (Linux/Mac: source .venv/bin/activate)
-   pip install -r requirements.txt
+   pip install -r requirements-local.txt
    ```
 4. **App web**: `streamlit run app_streamlit.py`
 5. **Tiempo real con la cámara**: `python -m src.tiempo_real` (teclas: `r` registrar, `p` preguntar, `q` salir)
@@ -53,6 +53,13 @@ Sin la CNN entrenada la app usa directamente el ViT (`nateraw/food`), que se des
 - `transformers` (por defecto): Qwen2.5-1.5B-Instruct local, sin API key. ≈3 GB; en CPU tarda varios segundos por respuesta.
 - `ollama`: instalar [Ollama](https://ollama.com) y ejecutar `ollama pull llama3.2`.
 - `reglas`: sin LLM, respuestas por plantilla (respaldo automático si el motor elegido falla).
+
+## Despliegue en Streamlit Community Cloud
+- `requirements.txt` es la versión liviana para la nube: OpenCV *headless*, PyTorch CPU y el ViT.
+- En *Advanced settings* elegir **Python 3.12**.
+- El asistente arranca con el motor `reglas`: Qwen2.5-1.5B no cabe en la memoria de la nube gratuita.
+- La cámara en vivo con ventana de OpenCV (`src/tiempo_real.py`) solo funciona en local; en la nube se usa la
+  cámara del navegador desde la app.
 
 ## Aviso
 Los valores nutricionales son aproximados para porciones típicas y sirven como referencia educativa. El sistema no

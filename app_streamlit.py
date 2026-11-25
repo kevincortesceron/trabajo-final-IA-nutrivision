@@ -40,8 +40,9 @@ with st.sidebar:
     modelo = st.selectbox("Modelo de visión", opciones,
                           format_func=lambda m: {"vit": "Transformer ViT-B/16",
                                                  "cnn": "CNN EfficientNetB0 (propio)"}[m])
-    motor = st.selectbox("Motor del asistente", ["transformers", "ollama", "reglas"],
-                         help="transformers: Qwen2.5-1.5B local · ollama: servidor local · reglas: sin LLM")
+    motor = st.selectbox("Motor del asistente", ["reglas", "transformers", "ollama"],
+                         help="reglas: sin LLM (por defecto, apto para la nube) · transformers: Qwen2.5-1.5B "
+                              "local (necesita ~4 GB de RAM) · ollama: servidor local")
     usar_deteccion = st.checkbox("Detectar y recortar el plato (OpenCV)", value=True)
     usar_clahe = st.checkbox("Mejorar iluminación (CLAHE)", value=True)
 
