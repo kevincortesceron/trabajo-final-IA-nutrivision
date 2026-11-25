@@ -1,0 +1,102 @@
+clase,nombre_es,categoria,porcion,porcion_g,kcal,proteina_g,carbohidratos_g,grasa_g
+apple_pie,Tarta de manzana,postre,1 porción,125,296,2.4,42.5,13.8
+baby_back_ribs,Costillas de cerdo BBQ,plato fuerte,1/2 costillar,250,650,45,18,44
+baklava,Baklava,postre,1 pieza,60,250,4,28,14
+beef_carpaccio,Carpaccio de res,entrada,1 plato,100,190,21,2,11
+beef_tartare,Tartar de res,entrada,1 plato,150,300,27,3,20
+beet_salad,Ensalada de remolacha,ensalada,1 plato,200,180,5,18,10
+beignets,Beignets (buñuelos franceses),postre,3 piezas,90,330,5,38,18
+bibimbap,Bibimbap,plato fuerte,1 tazón,450,560,24,80,16
+bread_pudding,Pudín de pan,postre,1 porción,150,340,8,50,12
+breakfast_burrito,Burrito de desayuno,desayuno,1 unidad,250,550,24,50,28
+bruschetta,Bruschetta,entrada,2 piezas,100,200,5,26,8
+caesar_salad,Ensalada César,ensalada,1 plato,200,360,10,14,30
+cannoli,Cannoli,postre,1 pieza,80,280,6,30,15
+caprese_salad,Ensalada caprese,ensalada,1 plato,200,300,16,6,23
+carrot_cake,Torta de zanahoria,postre,1 porción,120,470,5,56,25
+ceviche,Ceviche,entrada,1 plato,200,175,26,10,3
+cheese_plate,Tabla de quesos,entrada,1 porción,100,380,23,2,31
+cheesecake,Cheesecake,postre,1 porción,125,405,7,32,28
+chicken_curry,Curry de pollo,plato fuerte,1 plato,300,420,30,15,27
+chicken_quesadilla,Quesadilla de pollo,plato fuerte,1 unidad,200,515,30,40,26
+chicken_wings,Alitas de pollo,entrada,6 piezas,180,520,42,6,36
+chocolate_cake,Torta de chocolate,postre,1 porción,110,415,5,55,20
+chocolate_mousse,Mousse de chocolate,postre,1 copa,100,300,5,25,20
+churros,Churros,postre,3 piezas,90,350,4,42,18
+clam_chowder,Crema de almejas,sopa,1 taza,250,230,10,20,12
+club_sandwich,Sándwich club,sándwich,1 unidad,250,590,32,45,31
+crab_cakes,Pasteles de cangrejo,entrada,2 unidades,150,330,22,15,20
+creme_brulee,Crème brûlée,postre,1 porción,120,340,5,30,22
+croque_madame,Croque madame,sándwich,1 unidad,250,600,35,35,35
+cup_cakes,Cupcakes (ponquecitos),postre,1 unidad,70,260,2.5,36,12
+deviled_eggs,Huevos rellenos,entrada,4 mitades,100,220,12,2,18
+donuts,Donas,postre,1 unidad,70,290,4,35,15
+dumplings,Dumplings al vapor,entrada,6 piezas,150,300,14,36,11
+edamame,Edamame,entrada,1 taza,155,190,18,14,8
+eggs_benedict,Huevos benedictinos,desayuno,2 unidades,250,700,30,30,51
+escargots,Caracoles a la bourguignonne,entrada,6 piezas,100,240,14,3,19
+falafel,Falafel,entrada,4 piezas,100,335,13,32,18
+filet_mignon,Filet mignon,plato fuerte,1 corte,200,480,52,0,30
+fish_and_chips,Pescado con papas fritas,plato fuerte,1 plato,350,840,35,80,42
+foie_gras,Foie gras,entrada,1 porción,50,230,6,2,22
+french_fries,Papas a la francesa,acompañamiento,porción mediana,117,365,4,48,17
+french_onion_soup,Sopa de cebolla francesa,sopa,1 tazón,300,365,16,32,19
+french_toast,Tostadas francesas,desayuno,2 rebanadas,130,325,11,36,15
+fried_calamari,Calamares fritos,entrada,1 porción,150,340,22,20,19
+fried_rice,Arroz frito,plato fuerte,1 plato,300,500,14,70,18
+frozen_yogurt,Yogur helado,postre,1 taza,150,200,5,36,4
+garlic_bread,Pan de ajo,acompañamiento,2 rebanadas,80,280,6,32,14
+gnocchi,Ñoquis (gnocchi),plato fuerte,1 plato,250,420,10,70,11
+greek_salad,Ensalada griega,ensalada,1 plato,250,265,7,12,21
+grilled_cheese_sandwich,Sándwich de queso a la plancha,sándwich,1 unidad,120,400,15,32,24
+grilled_salmon,Salmón a la parrilla,plato fuerte,1 filete,170,350,38,0,22
+guacamole,Guacamole,entrada,1 porción,100,160,2,9,14
+gyoza,Gyozas,entrada,6 piezas,150,315,13,34,14
+hamburger,Hamburguesa,plato fuerte,1 unidad,220,560,30,40,31
+hot_and_sour_soup,Sopa agripicante,sopa,1 taza,250,160,10,14,7
+hot_dog,Perro caliente,sándwich,1 unidad,100,290,11,24,17
+huevos_rancheros,Huevos rancheros,desayuno,1 plato,300,450,20,35,26
+hummus,Hummus,entrada,1 porción,100,170,8,14,10
+ice_cream,Helado,postre,1 taza,130,270,4.5,31,14.5
+lasagna,Lasaña,plato fuerte,1 porción,300,500,28,42,24
+lobster_bisque,Bisque de langosta,sopa,1 taza,250,300,10,15,22
+lobster_roll_sandwich,Sándwich de langosta,sándwich,1 unidad,200,440,24,36,22
+macaroni_and_cheese,Macarrones con queso,plato fuerte,1 taza,250,500,20,50,24
+macarons,Macarons,postre,3 piezas,45,200,4,26,9
+miso_soup,Sopa de miso,sopa,1 taza,240,60,4,6,2
+mussels,Mejillones al vapor,plato fuerte,1 porción (sin concha),200,335,48,15,9
+nachos,Nachos con queso,entrada,1 porción,200,600,16,60,33
+omelette,Omelette (tortilla de huevo),desayuno,3 huevos,180,320,22,2,25
+onion_rings,Aros de cebolla,acompañamiento,8 piezas,120,410,5,45,23
+oysters,Ostras,entrada,6 unidades,85,60,7,4,2
+pad_thai,Pad thai,plato fuerte,1 plato,350,640,26,80,24
+paella,Paella,plato fuerte,1 plato,350,555,30,65,19
+pancakes,Pancakes,desayuno,3 unidades (sin sirope),150,350,9,54,11
+panna_cotta,Panna cotta,postre,1 porción,120,330,4,25,24
+peking_duck,Pato laqueado,plato fuerte,1 porción,200,680,38,20,50
+pho,Pho,sopa,1 tazón,500,395,28,50,9
+pizza,Pizza,plato fuerte,2 porciones,210,565,25,66,22
+pork_chop,Chuleta de cerdo,plato fuerte,1 unidad,180,415,45,0,26
+poutine,Poutine,plato fuerte,1 porción,300,745,22,75,40
+prime_rib,Costilla de res asada (prime rib),plato fuerte,1 corte,250,850,55,0,70
+pulled_pork_sandwich,Sándwich de cerdo desmechado,sándwich,1 unidad,250,555,33,55,22
+ramen,Ramen,sopa,1 tazón,550,550,24,70,19
+ravioli,Ravioli,plato fuerte,1 plato,250,425,18,52,16
+red_velvet_cake,Torta red velvet,postre,1 porción,115,450,5,58,22
+risotto,Risotto,plato fuerte,1 plato,300,475,12,66,18
+samosa,Samosa,entrada,2 unidades,120,330,6,36,18
+sashimi,Sashimi,entrada,8 cortes,120,160,28,0,5
+scallops,Vieiras,plato fuerte,1 porción,150,200,30,8,5
+seaweed_salad,Ensalada de algas,ensalada,1 porción,100,110,1.5,13,6
+shrimp_and_grits,Camarones con sémola,plato fuerte,1 plato,350,560,30,45,29
+spaghetti_bolognese,Espaguetis a la boloñesa,plato fuerte,1 plato,350,575,28,70,20
+spaghetti_carbonara,Espaguetis a la carbonara,plato fuerte,1 plato,300,650,25,70,30
+spring_rolls,Rollitos primavera,entrada,2 unidades,130,300,7,32,16
+steak,Bistec de res,plato fuerte,1 corte,225,560,56,0,37
+strawberry_shortcake,Pastel de fresas con crema,postre,1 porción,150,380,5,45,20
+sushi,Sushi (rollo),plato fuerte,8 piezas,200,345,12,60,6
+tacos,Tacos,plato fuerte,2 unidades,200,420,22,36,21
+takoyaki,Takoyaki,entrada,6 piezas,150,300,10,32,15
+tiramisu,Tiramisú,postre,1 porción,120,400,7,38,24
+tuna_tartare,Tartar de atún,entrada,1 porción,120,220,28,4,10
+waffles,Waffles,desayuno,2 unidades,150,440,12,50,21

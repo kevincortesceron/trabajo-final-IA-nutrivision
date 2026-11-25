@@ -1,0 +1,1 @@
+Coloca aquí food101_efficientnetb0.keras y clases.json generados por el notebook 01.

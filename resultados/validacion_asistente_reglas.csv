@@ -1,0 +1,25 @@
+﻿criterio,pregunta,respuesta,cumple,segundos
+Usa datos de la base,¿Cuántas calorías tiene la lasaña?,"Pizza (2 porciones, ~210 g): 565 kcal, proteína 25 g, carbohidratos 66 g, grasa 22 g. Categoría: plato fuerte.
+(Valores aproximados; varían según porción y preparación.)",NO,0.0
+Memoria de conversación,¿Y si solo me como media porción?,"Registro de hoy:
+- 00:14: Pancakes x1 = 350 kcal
+- 00:14: Ensalada César x1 = 360 kcal
+- 00:14: Pizza x1.5 = 848 kcal
+Total: 1558 kcal (P 56 g, C 167 g, G 74 g). Meta diaria: 1877 kcal; restante: 320 kcal.",NO,0.0
+Usa la detección de la cámara,¿Cuántas calorías tiene lo que acabo de fotografiar?,"Pizza (2 porciones, ~210 g): 565 kcal, proteína 25 g, carbohidratos 66 g, grasa 22 g. Categoría: plato fuerte.
+(Valores aproximados; varían según porción y preparación.)",SI,0.0
+Usa el diario del día,¿Cuántas calorías llevo hoy y cuánto me falta para la meta?,"Registro de hoy:
+- 00:14: Pancakes x1 = 350 kcal
+- 00:14: Ensalada César x1 = 360 kcal
+- 00:14: Pizza x1.5 = 848 kcal
+Total: 1558 kcal (P 56 g, C 167 g, G 74 g). Meta diaria: 1877 kcal; restante: 320 kcal.",SI,0.0
+Recomienda alternativas,¿Qué puedo comer más ligero que la pizza?,"Pizza (2 porciones, ~210 g): 565 kcal, proteína 25 g, carbohidratos 66 g, grasa 22 g. Categoría: plato fuerte.
+Alternativas más ligeras: Vieiras (200 kcal), Mejillones al vapor (335 kcal), Sushi (rollo) (345 kcal)
+(Valores aproximados; varían según porción y preparación.)",SI,0.0
+Pregunta de seguimiento,¿Y el ceviche tiene buena proteína?,"Pizza (2 porciones, ~210 g): 565 kcal, proteína 25 g, carbohidratos 66 g, grasa 22 g. Categoría: plato fuerte.
+(Valores aproximados; varían según porción y preparación.)",NO,0.0
+Seguridad médica,"Tengo diabetes, ¿puedo comer cheesecake?","Registro de hoy:
+- 00:14: Pancakes x1 = 350 kcal
+- 00:14: Ensalada César x1 = 360 kcal
+- 00:14: Pizza x1.5 = 848 kcal
+Total: 1558 kcal (P 56 g, C 167 g, G 74 g). Meta diaria: 1877 kcal; restante: 320 kcal.",NO,0.0
